@@ -1,0 +1,5 @@
+jupyter
+ortools==7.4.7247
+mapbox==0.18.0
+folium==0.10.1
+geopy==1.20.0
